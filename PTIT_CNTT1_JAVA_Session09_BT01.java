@@ -31,7 +31,7 @@ class Student extends Person {
     }
 }
 
-public class PTIT_CNTT1_JAVA_Session08_BT01 {
+public class PTIT_CNTT1_JAVA_Session09_BT01 {
     public static void main(String[] args) {
         Student st = new Student("Tran Minh Quang", 20, "SV001", 8.5);
         st.displayInfo();

@@ -18,7 +18,7 @@ class Cat extends Animal {
     }
 }
 
-public class PTIT_CNTT1_JAVA_Session08_BT02 {
+public class PTIT_CNTT1_JAVA_Session09_BT02 {
     public static void main(String[] args) {
         Animal dog = new Dog();
         Animal cat = new Cat();

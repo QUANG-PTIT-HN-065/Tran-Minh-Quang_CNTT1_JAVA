@@ -54,7 +54,7 @@ class Rectangle extends Shape {
     }
 }
 
-public class PTIT_CNTT1_JAVA_Session08_BT06 {
+public class PTIT_CNTT1_JAVA_Session09_BT06 {
     public static void main(String[] args) {
         List<Shape> shapes = new ArrayList<>();
 
